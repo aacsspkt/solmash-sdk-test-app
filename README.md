@@ -1,1 +1,1 @@
-"# Solmash Sdk Test App" 
+# Solmash Sdk Test App 
